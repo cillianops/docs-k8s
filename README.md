@@ -95,6 +95,8 @@ Kubernetes（简称 K8s）是一个开源的容器编排平台，用于自动化
 - [CKA 认证学习指南](https://github.com/cncf/curriculum)
 - [Helm 官方文档](https://helm.sh/docs/)
 
-## 贡献指南
-欢迎通过提交 Issue 和 Pull Request 为本项目做出贡献！
+## 更新日志
+
+- do something right
+
 
